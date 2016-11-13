@@ -708,3 +708,19 @@ hr {
 .custom-carousel-control.right >i {
   left: -50%;
 }
+
+
+.linkedin:hover{
+    background-color: #0077b5;
+}
+.twitter:hover{
+    background-color: #4099FF;
+}
+
+.google:hover{
+    background-color: #d34836;
+}
+
+.facebook:hover{
+    background-color: #3B5998;
+}
